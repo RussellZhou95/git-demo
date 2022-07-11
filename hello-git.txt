@@ -10,3 +10,4 @@ Hello git hot-fix test
 333333
 444444 by fierceflash
 555555 by ssh key
+666666 very good
