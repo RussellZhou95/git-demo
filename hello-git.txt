@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hello git 22222
 Hello git 33333
 Hello git
@@ -6,4 +6,3 @@ Hello git
 Hello git
 Hello git master test
 Hello git hot-fix test
->>>>>>> hot-fix
